@@ -1,4 +1,4 @@
-![regex](.\regex.png)
+![regex](./regex.png)
 
 # Regex Learning
 
